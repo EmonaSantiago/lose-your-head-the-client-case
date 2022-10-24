@@ -20,6 +20,8 @@
     text-align: center;
     color: black;
     text-shadow: #fff021 0.1em 0em;
+    margin: 20px;
+    font-size: xx-large;
   }
 
   header {
@@ -38,5 +40,9 @@
     text-decoration: none;
     margin: 2em;
     color: black;
+  }
+
+  a:hover {
+    font-weight: bold;
   }
 </style>

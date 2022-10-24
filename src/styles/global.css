@@ -10,5 +10,7 @@ body {
     box-sizing: border-box;
     max-width: 60rem;
     margin: 0 auto;
-    background-color: var(--color-grey);
+    /* background-color: var(--color-grey); */
+    background: linear-gradient(141deg,  var(--color-grey) 10%, #bfc1a9 51%, var(--color-cmd-yellow) 75%);
 }
+

@@ -6,7 +6,7 @@
 
 {#if contentRight.length > 0}
   <div>
-    {@html helpers.asHTML(contentRight)}
+    <p>{@html helpers.asHTML(contentRight)}</p>
   </div>
 {/if}
 

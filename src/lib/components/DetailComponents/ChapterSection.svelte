@@ -38,7 +38,7 @@
     border: 2px solid var(--color-black);
     background-color: var(--color-cmd-yellow);
     padding: 0.25rem;
-    margin-bottom: -2px;
+    margin-bottom: 5px;
     position: sticky;
     top: 0;
   }

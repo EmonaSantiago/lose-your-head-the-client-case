@@ -5,15 +5,14 @@
 </script>
 
 <div>
-  <h1>{@html helpers.asHTML(contentLeft)}</h1>
+  <p>{@html helpers.asHTML(contentLeft)}</p>
 </div>
 
 <style>
-  h1 {
-  }
   div {
     display: flex;
     flex-direction: column;
     margin-bottom: 1rem;
+    text-align: left;
   }
 </style>
